@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cake",
+    "description": "csx",
+    "instructions": "ddsdxa",
+    "servings": 3,
+    "prepTime": 4,
+    "cookTime": 5,
+    "ingredients": [
+      {
+        "ingredientId": "ing28d8343e",
+        "quantity": 0.2
+      }
+    ],
+    "id": "rec3ab4015b",
+    "userId": "ae0bf0e5-32dc-4d11-b893-9b9834673787"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Flour",
+    "unit": "kg",
+    "category": "grains",
+    "quantity": 1.2000000000000002,
+    "minQuantity": 0.5,
+    "expiryDate": "2025-07-31",
+    "id": "ing28d8343e",
+    "userId": "ae0bf0e5-32dc-4d11-b893-9b9834673787"
+  },
+  {
+    "name": "Sugar",
+    "unit": "kg",
+    "category": "grains",
+    "quantity": 3,
+    "minQuantity": 0.5,
+    "expiryDate": "2025-08-29",
+    "id": "ing47e6477d",
+    "userId": "ae0bf0e5-32dc-4d11-b893-9b9834673787"
+  }
+]
